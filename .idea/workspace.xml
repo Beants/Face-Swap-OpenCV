@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4af421b-96e6-4e4d-adb6-a9dd952bab68" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/boy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/girl.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Face-Swap-OpenCV.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Face-Swap-OpenCV.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/landmark_detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/components/landmark_detection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/constants/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/constants/constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/temp.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,11 +37,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="y" value="27" />
-    <option name="width" value="790" />
-    <option name="height" value="873" />
-  </component>
   <component name="ProjectId" id="1dwW7Ls6d8H5nHMXNcSEv95hpQT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -76,7 +64,7 @@
       <recent name="$PROJECT_DIR$/images" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.app">
+  <component name="RunManager" selected="Flask server.Flask (app)">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Face-Swap-OpenCV" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,7 +146,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546578498607</updated>
-      <workItem from="1593336468577" duration="4548000" />
+      <workItem from="1593336468577" duration="6182000" />
     </task>
     <servers />
   </component>
@@ -178,22 +166,22 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="684" y="322" key="FileChooserDialogImpl/-3440.-544.3440.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1593336597149" />
-    <state width="1750" height="317" key="GridCell.Tab.0.bottom" timestamp="1593340921634">
+    <state width="1750" height="317" key="GridCell.Tab.0.bottom" timestamp="1593394248928">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="317" key="GridCell.Tab.0.bottom/-3440.-544.3440.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1593340921634" />
-    <state width="1750" height="317" key="GridCell.Tab.0.center" timestamp="1593340921633">
+    <state width="1750" height="317" key="GridCell.Tab.0.bottom/-3440.-544.3440.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1593394248928" />
+    <state width="1750" height="317" key="GridCell.Tab.0.center" timestamp="1593394248927">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="317" key="GridCell.Tab.0.center/-3440.-544.3440.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1593340921633" />
-    <state width="1750" height="317" key="GridCell.Tab.0.left" timestamp="1593340921632">
+    <state width="1750" height="317" key="GridCell.Tab.0.center/-3440.-544.3440.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1593394248927" />
+    <state width="1750" height="317" key="GridCell.Tab.0.left" timestamp="1593394248926">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="317" key="GridCell.Tab.0.left/-3440.-544.3440.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1593340921632" />
-    <state width="1750" height="317" key="GridCell.Tab.0.right" timestamp="1593340921634">
+    <state width="1750" height="317" key="GridCell.Tab.0.left/-3440.-544.3440.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1593394248926" />
+    <state width="1750" height="317" key="GridCell.Tab.0.right" timestamp="1593394248928">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="317" key="GridCell.Tab.0.right/-3440.-544.3440.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1593340921634" />
+    <state width="1750" height="317" key="GridCell.Tab.0.right/-3440.-544.3440.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1593394248928" />
     <state x="397" y="199" key="SettingsEditor" timestamp="1593339732891">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
@@ -232,7 +220,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Face_Swap_OpenCV$Flask__app_.coverage" NAME="Flask (app) Coverage Results" MODIFIED="1593341201812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Face_Swap_OpenCV$Flask__app_.coverage" NAME="Flask (app) Coverage Results" MODIFIED="1593341501702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/Face_Swap_OpenCV$app.coverage" NAME="app Coverage Results" MODIFIED="1593341208565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

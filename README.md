@@ -1,22 +1,30 @@
-# Face-Swap-OpenCV
+# 换脸程序
+# Face-Swap-OpenCV 
+
 ![face swap sample](https://raw.githubusercontent.com/BruceMacD/Face-Swap-OpenCV/master/images/face_swapped.png)
 
 This is a basic face-swap implementation using OpenCV. Check out the code for a step-by-step explanation.
 
-## Usage
-./face_swap.py -i <data/input1.jpg> -i <data/input2.jpg>
 
-```
-./face_swap.py -i data/headshot1.jpg -i data/headshot2.jpg
-```
+## 使用（Usage）
 
+* 命令行运行
+    ```
+    ./face_swap.py -i data/headshot1.jpg -i data/headshot2.jpg
+    ```
+* web 运行
+    ```
+    ./app.py
+    ```
 ## Requirements
-* OpenCV v3.0+
-* numpy
-* dlib (for the landmark detection)
-* Python 3
-
+[requirements.txt](./requirements.txt)
+* 安装依赖
+    ```
+    pip install -r requirement.txt
+    ```
 ## Sources
+> Fork form https://github.com/BruceMacD/Face-Swap-OpenCV
+
 Based on the work of Satya Mallick
 
 https://www.learnopencv.com/face-swap-using-opencv-c-python/

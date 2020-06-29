@@ -38,8 +38,8 @@ def swap():
     img = request.files['img']
     img.save('temp.jpg')
     img = cv2.imread('temp.jpg')
-    is_boy = request.form['is_boy']
-    # is_boy = True
+    # is_boy = request.form['is_boy']
+    is_boy = True
     if is_boy:
         # img_1_face_to_img_2
         file_name = do_swap(img, boy_img)
